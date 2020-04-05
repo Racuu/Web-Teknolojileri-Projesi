@@ -36,10 +36,3 @@ Mirasımız Sayfası
  - Kontrol işlemleri javascript ile yapılmalı
  - Gönderilen form bilgileri başka bir sayfada görüntülenmeli
 
-Proje Süreci:
-
-Projenin 4 farklı versiyonunu oluşturmayı planlıyorum.
- - İlk versiyonda sayfaların html dosyalarının yazılması ve gerekli dökümanın ve içeriğin toplanması.
- - Sayfaların tasarım kodlarının yazılması,
- - Gerekli javascript ve php dosyalarının tamamlanması,
- - Ve son olarak eksik gördüğüm ve eklemek istediğim kısımların eklenmesi. 
