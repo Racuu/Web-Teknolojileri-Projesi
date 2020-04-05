@@ -1,6 +1,7 @@
 # Web-Teknolojileri-Projesi
 Yağız UÇAR
 G191210382
+Tanıtacağım Şehir:Konya
 
 Projenin Amacı:
 - Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek.
@@ -21,6 +22,7 @@ Hakkında Sayfası
 
 Mirasımız Sayfası
  - Şehirdeki kültürel bir mekanın tanıtımı
+ - Tanıtılan yerlerin orjinal iletişim bilgilerini eklemek
 
  Login Sayfası
  - Kullanıcıdan kullanıcı adı ve şifre istenmeli
