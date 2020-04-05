@@ -36,3 +36,8 @@ Mirasımız Sayfası
  - Kontrol işlemleri javascript ile yapılmalı
  - Gönderilen form bilgileri başka bir sayfada görüntülenmeli
 
+Proje Süreci:         
+-  Sayfaların html dosyalarının yazılması ve gerekli dökümanın ve içeriğin toplanması.    
+-  Sayfaların tasarım kodlarının yazılması,    
+-  Gerekli javascript ve php dosyalarının tamamlanması,     
+-  Eksik gördüğüm ve eklemek istediğim kısımların eklenmesi.          
