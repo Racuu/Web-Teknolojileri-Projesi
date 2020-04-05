@@ -4,7 +4,9 @@ G191210382
 
 Projenin Amacı:
 - Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek.
+
 Proje İçeriği:
+
 Ana Sayfada
  - Diğer sayfalara ulaşılabilecek menü
 Hakkında Sayfası
