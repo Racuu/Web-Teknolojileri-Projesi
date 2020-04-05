@@ -1,6 +1,7 @@
 # Web-Teknolojileri-Projesi
 Yağız UÇAR
 G191210382
+
 Projenin Amacı:
 - Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek.
 Proje İçeriği:
